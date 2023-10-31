@@ -1,0 +1,24 @@
+From 28bdf7ce4ffafbd50ab5406cb8ebe99386f93c21 Mon Sep 17 00:00:00 2001
+From: Arsen Asatryan <arsen_asatryan@epam.com>
+Date: Tue, 31 Oct 2023 11:42:21 +0400
+Subject: [PATCH] changed 2 line in first file
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 01f84f8..e42d577 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-l1
+-l2
++l1 ch f1
++l2 ch f1
+ l3
+ l4
+ l5
+-- 
+2.42.0.windows.2
+

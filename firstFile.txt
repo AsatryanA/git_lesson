@@ -1,7 +1,7 @@
-l1
-l2
-l3
-l4
+l1 ch f1
+l2 ch f1
+l3 ch 2
+l4 ch 2
 l5
 l6
 l7
